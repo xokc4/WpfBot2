@@ -23,7 +23,7 @@ namespace WpfBot
          public static long idM = 5;
        public static MessageEventArgs qw;
         /// <summary>
-        /// метод по началы работы телеграмма и токен
+        /// метод по началы работы телеграмма и токен/Нужен изменить токен
         /// </summary>
         /// <param name="W"></param>
         /// <param name="PathToken"></param>
