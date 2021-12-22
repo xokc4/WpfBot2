@@ -28,7 +28,7 @@ namespace WpfBot
         /// <param name="W"></param>
         /// <param name="PathToken"></param>
         [Obsolete]
-        public TelegramMessage(Form.MessageForm W, string PathToken = @"1913383880:AAFS6gdXlpeIOo_XtChZmhrlf7mntGY1NyA")
+        public TelegramMessage(Form.MessageForm W, string PathToken = @"")
         {
             this.BotMessageLog = new ObservableCollection<MessageLogin>();
             this.w = W;
